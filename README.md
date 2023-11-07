@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... how to stream
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... discord
-- my discord is CORPSE#5048
+- my discord is eddie5048
+- 
 
 <!---
 THELAZYBOYS/THELAZYBOYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
